@@ -1,0 +1,3 @@
+2024-02-27 16:37:17,428 [INFO] com.docker.demo.DockerDemoApplicationTests [main] Starting DockerDemoApplicationTests using Java 16.0.2 on GCDTP-051 with PID 7908 (started by ramachandranv in E:\CXI_BugFix_workspace\DockerDemo)
+2024-02-27 16:37:17,433 [INFO] com.docker.demo.DockerDemoApplicationTests [main] No active profile set, falling back to default profiles: default
+2024-02-27 16:37:19,369 [INFO] com.docker.demo.DockerDemoApplicationTests [main] Started DockerDemoApplicationTests in 2.301 seconds (JVM running for 3.585)

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/com.fasterxml.jackson.databind.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/httpclient-4.3-beta1.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/jackson-annotations-2.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/jackson-datatype-joda-2.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/joda-time-2.0.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/json-20160810.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/log4j-api-2.17.0.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/log4j-core-2.17.0.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/mchange-commons-java-0.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/mssql-jdbc-9.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/nv-websocket-client-2.12.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/platform-client-v2-171.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/slf4j-api-1.7.12.jar"/>
+	<classpathentry kind="lib" path="E:/NOTIFICATION FILE/GC_Notification_Devlopment_brance/Notification_Desktop/lib/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
